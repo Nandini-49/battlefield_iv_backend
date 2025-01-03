@@ -1,0 +1,199 @@
+{
+  "maps": [
+    {
+      "imageUrl": "/src/assets/map1.png",
+      "imageTitle": "Conquest Large \n Dawn Breaker"
+    },
+    {
+      "imageUrl": "/src/assets/map2.png",
+      "imageTitle": "Conquest Large \n Propoganda"
+    },
+    {
+      "imageUrl": "/src/assets/map3.png",
+      "imageTitle": "Conquest Large \n Operation Locker"
+    },
+    {
+      "imageUrl": "/src/assets/map4.png",
+      "imageTitle": "Conquest Large \n Lancang Dam"
+    },
+    {
+      "imageUrl": "/src/assets/map5.png",
+      "imageTitle": "Conquest Large \n Seige of Shanghai"
+    },
+    {
+      "imageUrl": "/src/assets/map6.png",
+      "imageTitle": "Conquest Large \n Golmud Railway"
+    },
+    {
+      "imageUrl": "/src/assets/map7.png",
+      "imageTitle": "Conquest Large \n Propoganda"
+    },
+    {
+      "imageUrl": "/src/assets/map8.png",
+      "imageTitle": "Conquest Large \n Seige of Shanghai"
+    },
+    {
+      "imageUrl": "/src/assets/map9.png",
+      "imageTitle": "Conquest Large \n DawnBreaker"
+    },
+    {
+      "imageUrl": "/src/assets/map10.png",
+      "imageTitle": "Conquest Large \n Propaganda"
+    },
+    {
+      "imageUrl": "/src/assets/map11.png",
+      "imageTitle": "Conquest Large \n Operation Locker"
+    },
+    {
+      "imageUrl": "/src/assets/map12.png",
+      "imageTitle": "Conquest Large \n Lancang Dam"
+    },
+    {
+      "imageUrl": "/src/assets/map13.png",
+      "imageTitle": "Conquest Large \n Seige of Shanghai"
+    },
+    {
+      "imageUrl": "/src/assets/map14.png",
+      "imageTitle": "Conquest Large \n Golmud Railway"
+    },
+    {
+      "imageUrl": "/src/assets/map15.png",
+      "imageTitle": "Conquest Large \n Propaganda"
+    },
+    {
+      "imageUrl": "/src/assets/map16.png",
+      "imageTitle": "Conquest Large \n Seige of Shanghai"
+    }
+  ],
+  "headings": [
+    {
+      "key": "Players",
+      "value": "64/64"
+    },
+    {
+      "key": "Ping",
+      "value": "47ms"
+    },
+    {
+      "key": "Tickrate",
+      "value": "60Hz"
+    }
+  ],
+  "statistics": [
+    {
+      "title": "Settings",
+      "contents": [
+        {
+          "key": "Region",
+          "value": "Europe - DE"
+        },
+        {
+          "key": "Punkbuster",
+          "value": "ON"
+        },
+        {
+          "key": "Fairfight",
+          "value": "ON"
+        },
+        {
+          "key": "Password",
+          "value": "ON"
+        },
+        {
+          "key": "Preset",
+          "value": "Normal"
+        }
+      ]
+    },
+    {
+      "title": "Advanced",
+      "contents": [
+        {
+          "key": "Minimap",
+          "value": "ON"
+        },
+        {
+          "key": "Only Squad Leader Spawn",
+          "value": "ON"
+        },
+        {
+          "key": "Vehicles",
+          "value": "ON"
+        },
+        {
+          "key": "Team Balance",
+          "value": "ON"
+        },
+        {
+          "key": "Minimap Spotting",
+          "value": "ON"
+        },
+        {
+          "key": "HUD",
+          "value": "ON"
+        },
+        {
+          "key": "3P Vehicle Cam",
+          "value": "ON"
+        },
+        {
+          "key": "Regenerative Health",
+          "value": "ON"
+        },
+        {
+          "key": "Kill Camp",
+          "value": "ON"
+        },
+        {
+          "key": "Friendly Fire",
+          "value": "ON"
+        },
+        {
+          "key": "3D Spotting",
+          "value": "ON"
+        },
+        {
+          "key": "Enemy Nametags",
+          "value": "ON"
+        }
+      ]
+    },
+    {
+      "title": "Rules",
+      "contents": [
+        {
+          "key": "Tickets",
+          "value": "400"
+        },
+        {
+          "key": "Vehicle Spawn Delay",
+          "value": "25"
+        },
+        {
+          "key": "Bullet Damage",
+          "value": "100"
+        },
+        {
+          "key": "Kick after Team Kills",
+          "value": "5"
+        },
+        {
+          "key": "Player Health",
+          "value": "100"
+        },
+        {
+          "key": "Player Respawn Time",
+          "value": "100"
+        },
+        {
+          "key": "Kick after Idle",
+          "value": "300"
+        },
+        {
+          "key": "Ban after kicks",
+          "value": "3"
+        }
+      ]
+    }
+  ]
+}
