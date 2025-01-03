@@ -1,67 +1,67 @@
 {
   "maps": [
     {
-      "imageUrl": "/src/assets/map1.png",
+      "imageUrl": "/assets/map1.png",
       "imageTitle": "Conquest Large \n Dawn Breaker"
     },
     {
-      "imageUrl": "/src/assets/map2.png",
+      "imageUrl": "/assets/map2.png",
       "imageTitle": "Conquest Large \n Propoganda"
     },
     {
-      "imageUrl": "/src/assets/map3.png",
+      "imageUrl": "/assets/map3.png",
       "imageTitle": "Conquest Large \n Operation Locker"
     },
     {
-      "imageUrl": "/src/assets/map4.png",
+      "imageUrl": "/assets/map4.png",
       "imageTitle": "Conquest Large \n Lancang Dam"
     },
     {
-      "imageUrl": "/src/assets/map5.png",
+      "imageUrl": "/assets/map5.png",
       "imageTitle": "Conquest Large \n Seige of Shanghai"
     },
     {
-      "imageUrl": "/src/assets/map6.png",
+      "imageUrl": "/assets/map6.png",
       "imageTitle": "Conquest Large \n Golmud Railway"
     },
     {
-      "imageUrl": "/src/assets/map7.png",
+      "imageUrl": "/assets/map7.png",
       "imageTitle": "Conquest Large \n Propoganda"
     },
     {
-      "imageUrl": "/src/assets/map8.png",
+      "imageUrl": "/assets/map8.png",
       "imageTitle": "Conquest Large \n Seige of Shanghai"
     },
     {
-      "imageUrl": "/src/assets/map9.png",
+      "imageUrl": "/assets/map9.png",
       "imageTitle": "Conquest Large \n DawnBreaker"
     },
     {
-      "imageUrl": "/src/assets/map10.png",
+      "imageUrl": "/assets/map10.png",
       "imageTitle": "Conquest Large \n Propaganda"
     },
     {
-      "imageUrl": "/src/assets/map11.png",
+      "imageUrl": "/assets/map11.png",
       "imageTitle": "Conquest Large \n Operation Locker"
     },
     {
-      "imageUrl": "/src/assets/map12.png",
+      "imageUrl": "/assets/map12.png",
       "imageTitle": "Conquest Large \n Lancang Dam"
     },
     {
-      "imageUrl": "/src/assets/map13.png",
+      "imageUrl": "/assets/map13.png",
       "imageTitle": "Conquest Large \n Seige of Shanghai"
     },
     {
-      "imageUrl": "/src/assets/map14.png",
+      "imageUrl": "/assets/map14.png",
       "imageTitle": "Conquest Large \n Golmud Railway"
     },
     {
-      "imageUrl": "/src/assets/map15.png",
+      "imageUrl": "/assets/map15.png",
       "imageTitle": "Conquest Large \n Propaganda"
     },
     {
-      "imageUrl": "/src/assets/map16.png",
+      "imageUrl": "/assets/map16.png",
       "imageTitle": "Conquest Large \n Seige of Shanghai"
     }
   ],
